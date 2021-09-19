@@ -7,7 +7,7 @@ This is a front-end clone of Netflix.
 
 https://netflix-clone-28008.web.app/
   
-![](public/webss.png)
+![](public/netflixMock.png)
  
 
 # Technolgies Used:
